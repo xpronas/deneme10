@@ -1,8 +1,8 @@
 YouTube: 18.23.35  
 Twitch: 15.4.1  
-Tiktok: 30.6.4  
-Reddit: 2023.30.0  
-Twitter: 10.1.0-release.0  
+Tiktok: 30.8.4  
+Reddit: 2023.31.0  
+Twitter: 10.2.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
@@ -11,7 +11,7 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 ---
 Changelog:  
 CLI: j-hc/revanced-cli-2.23.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.115.0.apk  
+Integrations: ReVanced/revanced-integrations-0.115.1.apk  
 Patches: ReVanced/revanced-patches-2.187.0.jar  
 
 ### [2.187.0](https://github.com/ReVanced/revanced-patches/compare/v2.186.0...v2.187.0) (2023-08-02)
