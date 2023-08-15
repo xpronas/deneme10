@@ -7,7 +7,8 @@ build-mindetach-module = true
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-included-patches = "disable-shorts-on-startup hide-ads hide-album-cards hide-autoplay-button hide-captions-button hide-cast-button hide-endscreen-cards hide-info-cards hide-load-more-button hide-watermark minimized-playback old-video-quality-menu open-links-externally playback-speed remember-video-quality return-youtube-dislike sponsorblock spoof-app-version video-ads"
+build-mode = "module"
+included-patches = "disable-shorts-on-startup disable-auto-captions hide-ads hide-breaking-news-shelf hide-captions-button hide-cast-button hide-endscreen-cards hide-info-cards hide-watermark minimized-playback old-video-quality-menu playback-speed remember-video-quality return-youtube-dislike sponsorblock spoof-app-version video-ads"
 exclusive-patches = true
 
 [Twitch]
@@ -30,6 +31,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+
 
 
 
