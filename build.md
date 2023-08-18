@@ -1,8 +1,8 @@
 YouTube: 18.23.35  
 Twitch: 15.4.1  
-Tiktok: 30.8.4  
-Reddit: 2023.31.0  
-Twitter: 10.2.0-release.0  
+Tiktok: 30.9.3  
+Reddit: 2023.32.1  
+Twitter: 10.3.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
 
