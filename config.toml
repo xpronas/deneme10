@@ -6,32 +6,7 @@ build-mindetach-module = true
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 
 [YouTube]
+[YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "module"
-included-patches = "disable-shorts-on-startup disable-auto-captions hide-ads hide-breaking-news-shelf hide-captions-button hide-cast-button hide-endscreen-cards hide-info-cards hide-watermark minimized-playback old-video-quality-menu playback-speed remember-video-quality return-youtube-dislike sponsorblock spoof-app-version video-ads"
+included-patches = "disable-shorts-on-startup hide-ads minimized-playback old-video-quality-menu open-links-externally remember-video-quality sponsorblock spoof-app-version vanced-microg-support video-ads"
 exclusive-patches = true
-
-[Twitch]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-
-[Music]
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-[Tiktok]
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-
-[Reddit]
-apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-
-[Messenger]
-apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
-
-[Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-
-
-
-
