@@ -6,8 +6,8 @@ build-mindetach-module = true
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-build-mode = "both"
-included-patches = "disable-player-popup-panels hide-ads hide-cast-button minimized-playback old-video-quality-menu open-links-externally remember-video-quality spoof-app-version vanced-microg-support video-ads"
+version = "16.40.36"
+included-patches = "hide-ads vanced-microg-support video-ads"
 exclusive-patches = true
 
 [Twitch]
@@ -30,4 +30,5 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+
 
