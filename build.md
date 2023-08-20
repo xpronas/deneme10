@@ -1,6 +1,6 @@
-YouTube: 18.23.35  
 Twitch: 15.4.1  
-Tiktok: 30.9.3  
+YouTube: 16.40.36  
+Tiktok: 30.9.4  
 Reddit: 2023.32.1  
 Twitter: 10.3.0-release.0  
 
