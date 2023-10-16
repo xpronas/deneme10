@@ -5,11 +5,13 @@ build-mindetach-module = true
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 # config.toml
+# config.toml
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+apkmirror-arch = "arm64-v8a"
 build-mode = "both"
 excluded-patches = "'Vanced MicroG support'"
 
@@ -30,5 +32,3 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-
-
